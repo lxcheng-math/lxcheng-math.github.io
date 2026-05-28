@@ -15,6 +15,7 @@ Geometric measure theory, PDEs
 Email: lxcheng [AT] whu [dot] edu [dot] cn
 
 ### Lists
+    <!-- HTML -->
 
 <dl>
 <dt>Birthplace</dt>
@@ -24,6 +25,7 @@ Email: lxcheng [AT] whu [dot] edu [dot] cn
 </dl>
 
 ```
-My works...
+My works:
+  <a href="https://orcid.org/0000-0002-2083-1835">ORCID</a> |
 ```
 
