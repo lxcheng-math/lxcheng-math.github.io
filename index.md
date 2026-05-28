@@ -15,7 +15,7 @@ Geometric measure theory, PDEs
 Email: lxcheng [AT] whu [dot] edu [dot] cn
 
 ### Lists
-    <!-- HTML -->
+ 
 
 <dl>
 <dt>Birthplace</dt>
