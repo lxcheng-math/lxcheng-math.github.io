@@ -1,7 +1,7 @@
 title: Cheng, Lingxiao (程凌霄)
 logo:
 description: My homepage for math
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
