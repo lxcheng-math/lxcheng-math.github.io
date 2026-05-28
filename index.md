@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**Cheng, Lingxiao(程凌霄)**
+**Cheng, Lingxiao**
 
 _Student in math_
 
