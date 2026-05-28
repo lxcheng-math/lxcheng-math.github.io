@@ -3,12 +3,12 @@ layout: default
 ---
 **Cheng, Lingxiao(程凌霄)**
 
-_~~Master~~Student in math_
+_Student in math_
 
 
 # Research
 
-GMT, PDE
+Geometric measure theory, PDEs
 
 ## Contact
 
@@ -19,6 +19,8 @@ Email: lxcheng [AT] whu [dot] edu [dot] cn
 <dl>
 <dt>Birthplace</dt>
 <dd>China</dd>
+<dt>Address</dt>
+<dd>Wuhan</dd>
 </dl>
 
 ```
