@@ -26,6 +26,7 @@ Email: lxcheng [AT] whu [dot] edu [dot] cn
 
 ```
 My works:
-  <a href="https://orcid.org/0000-0002-2083-1835">ORCID</a> |
+[我的ORCID主页](https://orcid.org/0000-0002-2083-1835 "访问我的个人网站")
+
 ```
 
