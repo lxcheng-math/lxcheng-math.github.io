@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<font size=10>**_Cheng, Lingxiao (程凌霄)'s Homepage for Math_**</font>
+**_<font size=10>Cheng, Lingxiao (程凌霄)'s Homepage for Math</font>_**
 
 
 
