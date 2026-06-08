@@ -23,13 +23,13 @@ Email: lxcheng [AT] whu [dot] edu [dot] cn
 <dt>Address</dt>
 <dd>Wuhan</dd>
  dt>ORCID</dt>
- <dd>[ORCID](https://orcid.org/0000-0002-2083-1835)</dd>
+ <dd></dd>
  <dt>Master's thesis template of WHU (武汉大学硕士论文模板)</dt>
- <dd>[Thesis]([https://github.com/logo.png](https://github.com/lxcheng-math/lxcheng-math.github.io/blob/master/WHU-MA-GITHUB.zip))</dd>
+ <dd>[Thesis](https://github.com/lxcheng-math/lxcheng-math.github.io/blob/master/WHU-MA-GITHUB.zip)</dd>
 </dl>
 
 # Links
-
+[ORCID](https://orcid.org/0000-0002-2083-1835)
 
 
 
