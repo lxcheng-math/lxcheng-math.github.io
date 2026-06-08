@@ -25,7 +25,7 @@ Email: lxcheng [AT] whu [dot] edu [dot] cn
  dt>ORCID</dt>
  <dd></dd>
  <dt>Master's thesis template of WHU (武汉大学硕士论文模板)</dt>
- <dd>[Thesis](https://github.com/lxcheng-math/lxcheng-math.github.io/blob/master/WHU-MA-GITHUB.zip)</dd>
+ <dd>[我的文件](WHU-MA-GITHUB.zip)</dd>
 </dl>
 
 # Links
