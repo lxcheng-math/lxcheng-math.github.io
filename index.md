@@ -22,6 +22,8 @@ Email: lxcheng [AT] whu [dot] edu [dot] cn
 <dd>China</dd>
 <dt>Address</dt>
 <dd>Wuhan</dd>
+ <dt>Master's thesis template of WHU (武汉大学硕士论文模板)</dt>
+ <dd>[Thesis](https://github.com/logo.png)</dd>
 </dl>
 
 # Links
