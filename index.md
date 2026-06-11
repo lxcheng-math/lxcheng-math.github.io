@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<font size=4>Homepage of Cheng, Lingxiao (程凌霄)</font>
+<font size=4>Homepage of Lingxiao Cheng(程凌霄)</font>
 
 # Research
 
