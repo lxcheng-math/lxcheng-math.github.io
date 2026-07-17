@@ -5,7 +5,7 @@ layout: default
 
 # Research
 
-Geometric measure theory, PDEs
+Geometric measure theory, Calculus of variations, PDEs
 
 # Contact
 
