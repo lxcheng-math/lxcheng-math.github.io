@@ -17,8 +17,6 @@ Email: lxcheng[AT]whu[dot]edu[dot]cn
 <dl>
 <dt>Birthplace</dt>
 <dd>China</dd>
-<dt>Address</dt>
-<dd>Wuhan</dd>
 </dl>
 
 # Links
