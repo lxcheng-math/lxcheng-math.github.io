@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to Lingxiao Cheng's homepage
 
-_yay_
+_Lingxiao Cheng's homepage for math_
 
 [back](./)
