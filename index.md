@@ -9,7 +9,7 @@ Geometric measure theory, Calculus of variations, PDEs
 
 # Contact
 
-Email: lingxiao.cheng[AT]outlook[dot]com
+Email: lingxiao[dot]cheng[AT]outlook[dot]com
 
 # Lists
  
